@@ -1,0 +1,44 @@
+body{
+    background-image: url(bgCity2.PNG);
+    /* background-color: goldenrod; */
+    /* border: 5px solid gold; */
+    /* margin: 0;
+    width: 1300px;
+    height: 700px; */
+    background-repeat: no-repeat; 
+}
+.s1{
+    /* background-image: url(images/city.PNG); */
+    height: 100%;
+    margin: 0 auto;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.car-style,.plain-style {
+    /* display: inline; */
+    width: 100%;
+}
+.c1{
+    /* position: absolute; */
+    transform: translateY(80%);
+}
+.c2{
+    /* position: absolute; */
+    transform: translateY(40%);
+}
+.m1{
+    /* position: absolute; */
+    transform: translateY(480%);
+}
+.m2{
+    /* position: absolute; */
+    transform: translateY(340%);
+}
+.p2{
+    transform: translateY(-60%);
+}
+.p3{
+    transform: translateY(-180%);
+}
